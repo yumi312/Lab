@@ -1,0 +1,29 @@
+h1 {
+    color: #b22222;
+    font-size: 64px;
+    font-weight: 300px;
+    font-family: "Microsoft JhengHei,monospace";
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    text-indent: 2em;
+}
+
+span {
+    background-color: yellow;
+}
+
+.content {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    padding: 5px 10px;
+    background-color: aqua;
+}
+
+#main-title {
+    font-weight: 700;
+}
